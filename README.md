@@ -6,4 +6,4 @@ The algorithm fits the bias using a smoothing spline non-linear regression, addi
 
 More information in thesis.pdf.
 
-This algorithm was used for CNV inference in [Gallone et al. Domestication and Divergence of Saccharomyces cerevisiae Beer Yeasts. 2016][https://www.ncbi.nlm.nih.gov/pubmed/27610566].
+This algorithm was used for CNV inference in [Gallone et al. Domestication and Divergence of Saccharomyces cerevisiae Beer Yeasts. 2016](https://www.ncbi.nlm.nih.gov/pubmed/27610566).
